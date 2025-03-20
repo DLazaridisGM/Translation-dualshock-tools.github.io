@@ -29,6 +29,7 @@ var available_langs = {
     "bg_bg": { "name": "Български", "file": "bg_bg.json", "direction": "ltr"},
     "cz_cz": { "name": "Čeština", "file": "cz_cz.json", "direction": "ltr"},
     "de_de": { "name": "Deutsch", "file": "de_de.json", "direction": "ltr"},
+    "el_gr": { "name": "Ελληνικά", "file": "el_gr.json", "direction": "ltr"},
     "es_es": { "name": "Español", "file": "es_es.json", "direction": "ltr"},
     "fr_fr": { "name": "Français", "file": "fr_fr.json", "direction": "ltr"},
     "hu_hu": { "name": "Magyar", "file": "hu_hu.json", "direction": "ltr"},
